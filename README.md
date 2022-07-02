@@ -1,6 +1,3 @@
-UNIVALI – EMCT – CIÊNCIA DA COMPUTAÇÃO
-Disciplina: Banco de Dados II
-Prof. Lucas Debatin, MSc.
 Acadêmicos: Vinicius Henrique Schmitt Guapiano (viniciusguapiano@gmail.com),
 Sérgio Gabriel Werner Zimmermann (sergio-zimmermann22@hotmail.com).
 Itajaí, 2022
